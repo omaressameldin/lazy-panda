@@ -1,0 +1,16 @@
+[submodule "proto-gen"]
+	path = proto-gen
+	url = https://github.com/omaressameldin/proto-gen
+	branch = master
+[submodule "lazy-panda-upload-service"]
+	path = lazy-panda-upload-service
+	url = https://github.com/omaressameldin/lazy-panda-upload-service
+	branch = master
+[submodule "lazy-panda-user-service"]
+	path = lazy-panda-user-service
+	url = https://github.com/omaressameldin/lazy-panda-user-service
+	branch = master
+[submodule "lazy-panda-utils"]
+	path = lazy-panda-utils
+	url = https://github.com/omaressameldin/lazy-panda-utils
+	branch = master
